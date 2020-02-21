@@ -1,7 +1,12 @@
 h1{
   color:#ff0000;
+  font-size:40px;
+  font-family:serif;
 }
 
-p{
+p {
   color:#0000ff;
+  font-family: "Lucida Grande";
+  font-size: 20px;
+
 }
