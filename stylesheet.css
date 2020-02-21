@@ -1,7 +1,10 @@
+body {
+  font-family:fantasy;
+}
+
 h1{
   color:#ff0000;
   font-size:40px;
-  font-family:monospace;
   background-color: #f3f372;
   width:500px;
   height: 150px;
@@ -9,7 +12,6 @@ h1{
 
 p {
   color:#0000ff;
-  font-family: "Lucida Grande";
   font-size: 20px;
 }
 
