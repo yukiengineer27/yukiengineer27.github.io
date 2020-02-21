@@ -17,3 +17,7 @@ img{
   width:500px;
   height:200px;
 }
+
+.selected{
+  color:#ff0000;
+}
