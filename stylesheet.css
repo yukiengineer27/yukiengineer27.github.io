@@ -1,15 +1,23 @@
 body {
-  font-family:fantasy;
+  font-family: "Avenir Next";
 }
 
 /*ヘッダ部*/
 .header{
-  background-color: #f7f2b4;
+  background-color:#87cefa;
   height: 90px;
+}
+
+.header-logo{
+  font-size: 36px;
+  float:left;
+  padding:20px 40px;
 }
 
 li{
   list-style: none;
+  float:left;
+  padding:33px 20px;
 }
 
 /*メイン*/
@@ -20,6 +28,6 @@ li{
 
 /*フッタ部*/
 .footer{
-  background-color: #ceccf3;
+  background-color: #dda0dd;
   height: 270px;
 }
