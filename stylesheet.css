@@ -2,24 +2,17 @@ body {
   font-family:fantasy;
 }
 
-h1{
-  color:#ff0000;
-  font-size:40px;
-  background-color: #f3f372;
-  width:500px;
-  height: 150px;
+.header{
+  background-color: #f7f2b4;
+  height: 90px;
 }
 
-p {
-  color:#0000ff;
-  font-size: 20px;
+.main{
+  background-color: #bdf7f1;
+  height: 600px;
 }
 
-img{
-  width:500px;
-  height:200px;
-}
-
-.selected{
-  color:#ff0000;
+.footer{
+  background-color: #ceccf3;
+  height: 270px;
 }
