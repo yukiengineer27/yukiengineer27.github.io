@@ -16,6 +16,9 @@ body {
 
 li{
   list-style: none;
+}
+
+.header-list li{
   float:left;
   padding:33px 20px;
 }
@@ -29,5 +32,20 @@ li{
 /*フッタ部*/
 .footer{
   background-color: #dda0dd;
-  height: 270px;
+  height: 120px;
+  color:#fff;
+  padding: 40px;
+}
+
+.footer-logo{
+  font-size:32px;
+  float:left;
+}
+
+.footer-list {
+  float:right;
+}
+
+.footer-list li{
+  padding-bottom: 20px;
 }
