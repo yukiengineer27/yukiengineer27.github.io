@@ -41,7 +41,7 @@ li{
 }
 
 .contents{
-  height:500px;
+  height:550px;
   margin-top: 100px;
 }
 
@@ -65,6 +65,20 @@ li{
   font-size:28px;
   padding-bottom: 15px;
   margin-bottom: 50px;
+}
+
+input,textarea{
+  width:400px;
+  font-size: 18px;
+  padding:20px;
+  margin-top:10px;
+  margin-bottom: 30px;
+  border:1px solid #dee7ec;
+}
+
+.contact-submit{
+  background-color:#dee7ec;
+  color:#889eab;
 }
 
 /*フッタ部*/
