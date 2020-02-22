@@ -40,6 +40,23 @@ li{
   color:red;
 }
 
+.contents{
+  height:500px;
+}
+
+.contents-item{
+  float:left;
+}
+
+.contents-item img{
+  height:200px;
+  width: 250px;
+}
+
+.section-title{
+  border-bottom: 1px solid red;
+}
+
 /*フッタ部*/
 .footer{
   background-color: #dda0dd;
