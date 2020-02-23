@@ -30,3 +30,31 @@ a {
 .top-wrapper p{
   opacity:0.7;
 }
+
+.btn{
+  padding: 8px 24px;
+  color:white;
+  opacity: 0.8;
+  display: inline-block;
+}
+
+.signup{
+  background-color:#239b76;
+}
+
+.facebook{
+  background-color:#3b5998;
+  margin-right:10px;
+}
+
+.twitter{
+  background-color:#55acee;
+}
+
+.btn-wrapper{
+  margin:20px 0;
+}
+
+.btn-wrapper p{
+  margin:10px 0;
+}
