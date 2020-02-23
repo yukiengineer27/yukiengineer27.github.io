@@ -6,4 +6,17 @@ body {
 a {
   text-decoration: none;
 }
-/**/
+
+.container{
+  /*background-color: blue;*/
+  width: 1170px;
+  padding: 0 15px ;
+  margin: auto;
+}
+
+.top-wrapper{
+  padding: 180px 0 100px 0;
+  color:white;
+  background-image:url("img/top.jpg");
+  background-size:cover;
+}
