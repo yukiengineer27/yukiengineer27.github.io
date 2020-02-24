@@ -72,6 +72,8 @@ a {
 header{
   height:65px;
   background-color: rgba(34,49,52,0.9);
+  position:fixed;
+  z-index:10;
 }
 
 .logo{
@@ -166,4 +168,17 @@ header{
   box-shadow: none;
   position: relative;
   top:7px
+}
+
+footer{
+  padding-top: 30px;
+}
+
+footer img{
+  width:125px;
+}
+
+footer p{
+  color:#b3aeb5;
+  size:12px;
 }
