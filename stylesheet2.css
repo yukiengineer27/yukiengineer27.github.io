@@ -64,6 +64,7 @@ a {
 }
 
 .btn-wrapper{
+  text-align: center;
   margin:20px 0;
 }
 
@@ -114,6 +115,14 @@ header{
   background-color: #f7f7f7;
   margin-bottom: 80px;
   text-align: center;
+}
+
+.menu-icon {
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px 0;
+  display:none;
 }
 
 .clear{
