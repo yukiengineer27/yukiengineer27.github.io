@@ -1,3 +1,7 @@
+*{
+  box-sizing:border-box;
+}
+
 body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
@@ -10,7 +14,8 @@ a {
 
 .container{
   /*background-color: blue;*/
-  width: 1170px;
+  max-width:1170px;
+  width: 100%;
   padding: 0 15px ;
   margin: auto;
 }
@@ -105,10 +110,14 @@ header{
 }
 
 .lesson-wrapper{
-  height:500px;
+  /* height:500px; */
   background-color: #f7f7f7;
   margin-bottom: 80px;
   text-align: center;
+}
+
+.clear{
+  clear:left;
 }
 
 .heading{
